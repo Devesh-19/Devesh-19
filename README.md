@@ -50,9 +50,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-19&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
-&nbsp;
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devesh-19&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
 
