@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Devesh Kumar Singh</h1>
-<h3 align="center">I'm a **Student, Developer, Learner!**</h3>
+<h3 align="center">I'm a Student, Developer, Learner!</h3>
 
 - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game)
 
 - 💻 I’m currently learning **a lot 🤣**
 
-- 🤝 I’m looking to collaborate on **JavaScript based projects**
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
 - 💬 Ask me about **HTML5 , CSS3, Bootstrap 4, JavaScript, jQuery**
 
@@ -49,7 +49,10 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh-19&layout=compact" alt="devesh-19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-19&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
+&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh-19&show_icons=true" alt="devesh-19" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devesh-19&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
 
