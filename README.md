@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Devesh Kumar Singh</h1>
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
-- 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game)
+<!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning **a lot 🤣**
+- 💻 I’m currently learning **Node.js**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
