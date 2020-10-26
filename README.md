@@ -3,15 +3,15 @@
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning **Node.js**
+- 💻 I’m currently learning **Web APIs**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-- 💬 Ask me about **HTML5 , CSS3, Bootstrap 4, JavaScript, jQuery**
+- 💬 Ask me about **HTML , CSS, JavaScript, jQuery, Node.js**
 
 - 📧 How to reach me **Connect to me via Email [Devesh](mailto:devdeveshsingh@gmail.com)**
 
-- ⚡ Fun fact **I love to draw and listen to music**
+- ⚡ Fun fact **I love to listen to music**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
