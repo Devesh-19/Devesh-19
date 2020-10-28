@@ -7,11 +7,11 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-- 💬 Ask me about **HTML , CSS, JavaScript, jQuery, Node.js**
+- 💬 Ask me about **HTML , CSS, JavaScript, jQuery, Express.js**
 
-- 📧 How to reach me **Connect to me via Email [Devesh](mailto:devdeveshsingh@gmail.com)**
+- 📧 How to reach me? **Connect to me via Email [Devesh](mailto:devdeveshsingh@gmail.com)**
 
-- ⚡ Fun fact **I love to listen to music**
+- ⚡ Fun fact: **I love to listen to music**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
