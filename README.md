@@ -3,7 +3,7 @@
 
 <!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
 
-- 💻 I’m currently learning **Web APIs**
+- 💻 I’m currently learning about **EJS**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
