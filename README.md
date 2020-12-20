@@ -7,7 +7,7 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-- 💬 Ask me about **HTML , CSS, JavaScript, jQuery, Express.js**
+- 💬 Ask me about **HTML , CSS, JavaScript, jQuery, Express.js, MongoDB**
 
 - 📧 How to reach me? **Connect to me via Email [Devesh](mailto:devdeveshsingh@gmail.com)**
 
