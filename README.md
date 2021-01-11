@@ -16,7 +16,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/devesh-kumar-singh-b43580136" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /></code> </a>
-<a href="https://fb.com/devesh19.07" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" alt="devesh19.07" height="30" width="40" /></code> </a>
+<a href="https://fb.com/devesh19.07" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="devesh19.07" height="30" width="40" /></code> </a>
 <a href="https://instagram.com/buck.sh0t" target="blank"><code><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="buck.sh0t" height="30" width="40" /></code> </a>
 <a href="https://www.codechef.com/users/buckshot" target="blank"><code><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="buckshot" height="30" width="40" /></code> </a>
 </p>
